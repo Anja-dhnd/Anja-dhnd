@@ -1,5 +1,6 @@
 ### Hi there, I'm Ania 👋 
-#### I'm a junior web developer in Brussels aiming at becoming a full-stack developer. Besides coding, I'm highly interested in cybersecurity and blockchain technology. 
+#### I'm a junior web developer in Brussels aiming at becoming a full-stack developer. 
+#### Besides coding, I'm highly interested in cybersecurity and blockchain technology. 
 
 🌱 I’m currently working on improving my knowledge of PHP. 
 After that, I'd like to learn: 
@@ -15,7 +16,7 @@ After that, I'd like to learn:
 - On [LinkedIn](https://www.linkedin.com/in/anais-dhnd/)
 - By e-mail: anais.dehand@tuta.io
 
-⚡ Fun fact: 
+⚡ Fun fact: ----------------
 I used to study linguistics and translation and love to learn new languages. I already speak 5 of them but now, I took a break and decided to switch to programming languages. :information_desk_person:
 
 <!--
