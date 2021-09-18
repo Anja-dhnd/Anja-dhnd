@@ -16,8 +16,9 @@ After that, I'd like to learn:
 - On [LinkedIn](https://www.linkedin.com/in/anais-dhnd/)
 - By e-mail: anais.dehand@tuta.io
 
-⚡ Fun fact: ----------------
-I used to study linguistics and translation and love to learn new languages. I already speak 5 of them but now, I took a break and decided to switch to programming languages. :information_desk_person:
+⚡ Fun fact: 
+I used to study linguistics and translation and love to learn new languages. 
+I already speak 5 of them but now, I took a break and decided to switch to programming languages. :information_desk_person:
 
 <!--
 **Anja-dhnd/Anja-dhnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
