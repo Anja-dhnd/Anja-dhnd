@@ -2,7 +2,7 @@
 #### I'm a junior web developer in Brussels aiming at becoming a full-stack developer. 
 #### Besides coding, I'm highly interested in cybersecurity and blockchain technology. 
 
-🌱 I’m currently working on improving my knowledge of PHP. 
+🌱 I’m currently working on improving my knowledge of PHP and on building my own website/blog. 
 After that, I'd like to learn: 
 - Laravel
 - Vue.JS
