@@ -21,6 +21,8 @@ After that, I'd like to learn:
 I used to study linguistics and translation and love to learn new languages. 
 I already speak 5 of them but now, I took a break and decided to switch to programming languages. :information_desk_person:
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anja-dhnd&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 **Anja-dhnd/Anja-dhnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
