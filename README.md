@@ -15,6 +15,7 @@ After that, I'd like to learn:
 📫 You can reach me: 
 - On [LinkedIn](https://www.linkedin.com/in/anais-dhnd/)
 - By e-mail: anais.dehand@tuta.io
+- Card: npx anja-dhnd
 
 ⚡ Fun fact: 
 I used to study linguistics and translation and love to learn new languages. 
