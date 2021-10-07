@@ -21,6 +21,6 @@ After that, I'd like to learn:
 I used to study linguistics and translation and love to learn new languages. 
 I already speak 5 of them but now, I took a break and decided to switch to programming languages. :information_desk_person:
 
-
+<center>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anja-dhnd&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
-  
+ </center> 
