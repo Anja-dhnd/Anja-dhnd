@@ -1,5 +1,5 @@
 ### Hi there, I'm Ania 👋 
-#### I'm a junior web developer in Brussels aiming at becoming a full-stack developer. Besides coding, I'm highly interested in cybersecurity and blockchain technology. Check out my first and temporary [portfolio](https://anja-dhnd.github.io/portfolio/) (ps. I look mean but I promise I'm sweet.)
+#### I'm a junior web developer from Brussels aiming at becoming a full-stack developer. Besides coding, I'm highly interested in cybersecurity and blockchain technology. Check out my first and temporary [portfolio](https://anja-dhnd.github.io/portfolio/) (ps. I look mean but I promise I'm sweet.)
 
 🌱 I’m currently working on improving my knowledge of PHP and learning Laravel. 
 After that, I'd like to learn: 
