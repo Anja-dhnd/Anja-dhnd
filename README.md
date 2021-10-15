@@ -8,8 +8,8 @@ After that, I'd like to learn:
 - Django
 
 🔭 Long-term goals:
-- Contribute to an open-source project
-- Get into cybersecurity
+- Contribute to an open-source project.
+- Brute force my way into cybersecurity.
 
 📫 You can reach me: 
 - On [LinkedIn](https://www.linkedin.com/in/anais-dhnd/)
