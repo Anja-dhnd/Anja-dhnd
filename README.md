@@ -5,7 +5,6 @@
 After that, I'd like to learn: 
 - Vue.JS
 - Python
-- Django
 
 🔭 Long-term goals:
 - Contribute to an open-source project.
