@@ -14,7 +14,9 @@ After that, I'd like to learn:
 - On [LinkedIn](https://www.linkedin.com/in/anais-dhnd/)
 - By e-mail: anais.dehand@tuta.io
 - On [Matrix](https://www.matrix.org): @anais-dehand:matrix.org
+- On [Root-Me](https://www.root-me.org/Svanna)
 - Card: npx anja-dhnd
+
 
 ⚡ Fun fact: 
 I used to study linguistics and translation and love to learn new languages. 
