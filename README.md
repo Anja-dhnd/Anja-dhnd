@@ -13,7 +13,7 @@
 - By e-mail: anais.dehand@tuta.io
 - On [Matrix](https://www.matrix.org): @anais-dehand:matrix.org
 - On [Root-Me](https://www.root-me.org/Svanna)
-- Card: npx anja-dhnd
+- Telegram: @Sv4nn4
 
 
 ⚡ Fun fact: 
