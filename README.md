@@ -1,7 +1,7 @@
 ### Hi there, I'm Ania 👋 
 #### I'm a junior web developer from Brussels. Besides coding, I'm highly interested in cybersecurity and blockchain technology. Check out my first and temporary [portfolio](https://anja-dhnd.github.io/portfolio/) (ps. I look mean but I promise I'm sweet.)
 
-🌱 I’m currently learning Drupal and am working on improving my knowledge of PHP and Python. 
+🌱 I’m currently working on improving my knowledge of Python. 
 
 
 🔭 Long-term goals:
