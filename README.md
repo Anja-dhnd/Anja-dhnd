@@ -1,12 +1,12 @@
 ### Hi there, I'm Ania 👋 
-#### I'm a junior web developer from Brussels. Besides coding, I'm highly interested in cybersecurity and blockchain technology. Check out my first and temporary [portfolio](https://anja-dhnd.github.io/portfolio/) (ps. I look mean but I promise I'm sweet.)
+#### I'm a junior developer from Brussels. Besides coding, I'm highly interested in cybersecurity and blockchain technology. Check out my first and temporary [portfolio](https://anja-dhnd.github.io/portfolio/) (ps. I look mean but I promise I'm sweet.)
 
-🌱 I’m currently working on improving my knowledge of Python. 
+🌱 I’m currently working on improving my knowledge of Python and started a cybersecurity bootcamp.
 
 
 🔭 Long-term goals:
 - Contribute to an open-source project.
-- Brute force my way into cybersecurity.
+- Brute force my way into cybersecurity. (in progress)
 
 📫 You can reach me: 
 - On [LinkedIn](https://www.linkedin.com/in/anais-dhnd/)
@@ -18,7 +18,7 @@
 
 ⚡ Fun fact: 
 I used to study linguistics and translation and love to learn new languages. 
-I already speak 5 of them but now, I took a break and decided to switch to programming languages. :information_desk_person:
+I already speak a couple of them but now, I took a break and decided to switch to programming languages. :information_desk_person:
 
 <div align="center">
  <a href="https://git.io/streak-stats">
