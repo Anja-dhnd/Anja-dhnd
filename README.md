@@ -13,8 +13,6 @@
 - By e-mail: anais.dehand@tuta.io
 - On [Matrix](https://www.matrix.org): @anais-dehand:matrix.org
 - On [Root-Me](https://www.root-me.org/Svanna)
-- Telegram: @Sv4nn4
-
 
 ⚡ Fun fact: 
 I used to study linguistics and translation and love to learn new languages. 
